@@ -1,8 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
-# Sublist3r v2.0
-# By Halim Jabbes - https://linkedin.com/in/hxlxmj
-
+# find bug
+# mod by Riyan
 # modules in standard library
 import re
 import sys
